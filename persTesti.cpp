@@ -142,8 +142,4 @@ int main()
 
 std::cout << "Vastasit kaikkiin viiteen kysymykseen. Olet Luotettavan Persoonallisuustestin mukaan ensisijaisesti " << testin_tulos << ".\n\n";
 
-    // testituloste
-
-    // std::cout << "Pisteet:\n Alkoholisti: " << alkoholisti << "\n Mallikansalainen: " << mallikansalainen << "\n Muuten vaan luuseri: " << luuseri << ".\n\n";
-
  }
